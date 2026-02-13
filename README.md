@@ -1,32 +1,33 @@
-# Henry Muhiar
+# Hey, I'm Henry
 
-**Software Engineer** based in Toronto, Canada.
+Software engineer out of Toronto. I mostly build backend systems, automation pipelines, and AI agent tooling.
 
-I build automation pipelines, AI agent systems, and multi-model infrastructure. 3+ years of experience shipping production backend systems, ML-powered services, and developer tools.
+Currently working on multi-model LLM infrastructure — making different AI models work together as teammates.
 
-## What I'm Working On
+### Tech I Use
 
-- **[HydraTeams](https://github.com/Pickle-Pixel/HydraTeams)** — Translation proxy that makes Claude Code Agent Teams model-agnostic. Run GPT, Gemini, or Ollama as teammates with full Claude Code tooling.
-- **[HydraMCP](https://github.com/Pickle-Pixel/HydraMCP)** — MCP server for querying any LLM through your existing subscriptions. Compare, vote, and synthesize across models from one terminal.
-- **[Captcha-Solver](https://github.com/Pickle-Pixel/Captcha-Solver)** — Automated CAPTCHA-solving system using a lightweight object detection model, self-hosted with REST API access.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,bash,c,fastapi,flask,docker,aws,postgres,mongodb,sqlite,tensorflow,pytorch,linux,git,github,githubactions,jenkins,grafana,vscode&perline=10" />
+</p>
 
-## Selected Work
+### Projects
 
-- Built an automated job market intelligence pipeline that aggregates and scores 1,500+ listings in under 20 minutes using LLM-powered fit analysis
-- Managed a 500+ compute node blockchain cluster — automated deployment, monitoring via Grafana, and pushed uptime from 70% to 98%
-- Reduced accounting process time by 80% through API automation and internal tooling at ZeemFC
-- Trained and deployed a CNN image classifier (TensorFlow, PyTorch, ONNX) with a Flask API handling 12 concurrent inference threads at 95% accuracy
-- Designed modular agentic systems powered by LangChain/LangGraph for real-time e-commerce product recommendations
+**[HydraTeams](https://github.com/Pickle-Pixel/HydraTeams)** — makes Claude Code agent teams model-agnostic. Use GPT, Gemini, Ollama as teammates with full tooling.
 
-## Tech
+**[HydraMCP](https://github.com/Pickle-Pixel/HydraMCP)** — MCP server that lets you query any LLM from one terminal. Compare, vote, synthesize across models.
 
-**Languages:** Python, SQL, Bash, TypeScript, C
-**Backend:** FastAPI, Flask, REST APIs, Gunicorn
-**AI/ML:** LangChain, LangGraph, TensorFlow, PyTorch, ONNX Runtime
-**Infrastructure:** Docker, AWS (EC2, Lambda, S3), GitHub Actions, Jenkins, Grafana
-**Databases:** PostgreSQL, SQLite, MongoDB
+**[Captcha-Solver](https://github.com/Pickle-Pixel/Captcha-Solver)** — lightweight object detection model that solves CAPTCHAs, self-hosted with API access.
 
-## Links
+**[qubic-dashboard](https://github.com/Pickle-Pixel/qubic-dashboard)** — Grafana dashboards for monitoring a 500+ node compute cluster.
 
-- [pickle-pixel.com](https://pickle-pixel.com)
-- [hamzeh.k.muhiar@gmail.com](mailto:hamzeh.k.muhiar@gmail.com)
+### What I've Done
+
+- Automated workflows at ZeemFC that cut accounting time from 10 hours to 2
+- Ran a 500+ node blockchain cluster, pushed uptime from 70% to 98%
+- Built a job pipeline that scores 1,500+ listings in 20 min using local LLMs
+- Shipped a CNN image classifier API — TensorFlow, PyTorch, ONNX — 95% accuracy, 12 concurrent threads
+
+### Links
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pickle--pixel.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pickle-pixel.com)
+[![Email](https://img.shields.io/badge/Email-hamzeh.k.muhiar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzeh.k.muhiar@gmail.com)
