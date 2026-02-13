@@ -1,8 +1,8 @@
 # Hey, I'm Henry
 
-Software engineer out of Toronto. I mostly build backend systems, automation pipelines, and AI agent tooling.
+Software engineer in Toronto. I build backend systems, automation pipelines, and AI agent tooling.
 
-Currently working on multi-model LLM infrastructure — making different AI models work together as teammates.
+Right now I'm focused on multi-model LLM infrastructure, making different AI models work together as teammates.
 
 ### Tech I Use
 
@@ -12,20 +12,20 @@ Currently working on multi-model LLM infrastructure — making different AI mode
 
 ### Projects
 
-**[HydraTeams](https://github.com/Pickle-Pixel/HydraTeams)** — makes Claude Code agent teams model-agnostic. Use GPT, Gemini, Ollama as teammates with full tooling.
+**[HydraTeams](https://github.com/Pickle-Pixel/HydraTeams)** makes Claude Code agent teams model-agnostic. Use GPT, Gemini, or Ollama as teammates with full tooling.
 
-**[HydraMCP](https://github.com/Pickle-Pixel/HydraMCP)** — MCP server that lets you query any LLM from one terminal. Compare, vote, synthesize across models.
+**[HydraMCP](https://github.com/Pickle-Pixel/HydraMCP)** is an MCP server that lets you query any LLM from one terminal. Compare, vote, and synthesize across models.
 
-**[Captcha-Solver](https://github.com/Pickle-Pixel/Captcha-Solver)** — lightweight object detection model that solves CAPTCHAs, self-hosted with API access.
+**[Captcha-Solver](https://github.com/Pickle-Pixel/Captcha-Solver)** is a lightweight object detection model that solves CAPTCHAs, self-hosted with API access.
 
-**[qubic-dashboard](https://github.com/Pickle-Pixel/qubic-dashboard)** — Grafana dashboards for monitoring a 500+ node compute cluster.
+**[qubic-dashboard](https://github.com/Pickle-Pixel/qubic-dashboard)** is a set of Grafana dashboards for monitoring a 500+ node compute cluster.
 
-### What I've Done
+### Some Things I've Built
 
-- Automated workflows at ZeemFC that cut accounting time from 10 hours to 2
-- Ran a 500+ node blockchain cluster, pushed uptime from 70% to 98%
-- Built a job pipeline that scores 1,500+ listings in 20 min using local LLMs
-- Shipped a CNN image classifier API — TensorFlow, PyTorch, ONNX — 95% accuracy, 12 concurrent threads
+- Automation tooling at ZeemFC that cut accounting time from 10 hours to 2
+- Managed a 500+ node blockchain cluster and pushed uptime from 70% to 98%
+- A job pipeline that scores 1,500+ listings in 20 min using local LLMs
+- CNN image classifier API with TensorFlow, PyTorch, and ONNX. 95% accuracy, 12 concurrent threads
 
 ### Links
 
