@@ -4,13 +4,13 @@ AI infrastructure engineer in Toronto. I build multi-model orchestration systems
 
 ### Projects
 
-**[ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)** — AI agent that applies to jobs for you. Any site, any form. 205★
+**[ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)** AI agent that applies to jobs for you. Any site, any form.
 
-**[netflix-force-4k](https://github.com/Pickle-Pixel/netflix-force-4k)** — Browser extension that spoofs DRM and HDCP capabilities to unlock 4K when Netflix incorrectly caps quality. 89★
+**[netflix-force-4k](https://github.com/Pickle-Pixel/netflix-force-4k)** Browser extension that spoofs DRM and HDCP capabilities to unlock 4K when Netflix incorrectly caps quality.
 
-**[HydraTeams](https://github.com/Pickle-Pixel/HydraTeams)** — Makes Claude Code agent teams model-agnostic. Bidirectional SSE streaming between Anthropic, OpenAI, and ChatGPT protocols. Zero runtime deps. 19★
+**[HydraTeams](https://github.com/Pickle-Pixel/HydraTeams)** Makes Claude Code agent teams model-agnostic. Bidirectional SSE streaming between Anthropic, OpenAI, and ChatGPT protocols. Zero runtime deps.
 
-**[HydraMCP](https://github.com/Pickle-Pixel/HydraMCP)** — MCP server to query, compare, vote, and synthesize across any LLM from one terminal. 8 tools, circuit breaker resilience. 9★
+**[HydraMCP](https://github.com/Pickle-Pixel/HydraMCP)** MCP server to query, compare, vote, and synthesize across any LLM from one terminal. 8 tools, circuit breaker resilience.
 
 ### Impact
 
