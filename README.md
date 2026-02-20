@@ -1,31 +1,29 @@
 # Hey, I'm Henry
 
-Software engineer in Toronto. I build backend systems, automation pipelines, and AI agent tooling.
+AI infrastructure engineer in Toronto. I build multi-model orchestration systems, browser automation, and developer tooling.
 
-Right now I'm focused on multi-model LLM infrastructure, making different AI models work together as teammates.
+### Projects
 
-### Tech I Use
+**[ApplyPilot](https://github.com/Pickle-Pixel/ApplyPilot)** — AI agent that applies to jobs for you. Any site, any form. 205★
+
+**[netflix-force-4k](https://github.com/Pickle-Pixel/netflix-force-4k)** — Browser extension that spoofs DRM and HDCP capabilities to unlock 4K when Netflix incorrectly caps quality. 89★
+
+**[HydraTeams](https://github.com/Pickle-Pixel/HydraTeams)** — Makes Claude Code agent teams model-agnostic. Bidirectional SSE streaming between Anthropic, OpenAI, and ChatGPT protocols. Zero runtime deps. 19★
+
+**[HydraMCP](https://github.com/Pickle-Pixel/HydraMCP)** — MCP server to query, compare, vote, and synthesize across any LLM from one terminal. 8 tools, circuit breaker resilience. 9★
+
+### Impact
+
+- Built automation at ZeemFC that cut accounting time from 10 hours to 2
+- Managed a 500+ node blockchain cluster, pushed uptime from 70% to 98%
+- Built a job pipeline scoring 1,500+ listings in 20 min using local LLMs
+- CNN classifier API (TensorFlow/PyTorch/ONNX) — 95% accuracy, 12 concurrent threads
+
+### Tech
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,typescript,bash,c,fastapi,flask,docker,aws,postgres,mongodb,sqlite,tensorflow,pytorch,linux,git,github,githubactions,jenkins,grafana,vscode&perline=10" />
 </p>
-
-### Projects
-
-**[HydraTeams](https://github.com/Pickle-Pixel/HydraTeams)** makes Claude Code agent teams model-agnostic. Use GPT, Gemini, or Ollama as teammates with full tooling.
-
-**[HydraMCP](https://github.com/Pickle-Pixel/HydraMCP)** is an MCP server that lets you query any LLM from one terminal. Compare, vote, and synthesize across models.
-
-**[Captcha-Solver](https://github.com/Pickle-Pixel/Captcha-Solver)** is a lightweight object detection model that solves CAPTCHAs, self-hosted with API access.
-
-**[qubic-dashboard](https://github.com/Pickle-Pixel/qubic-dashboard)** is a set of Grafana dashboards for monitoring a 500+ node compute cluster.
-
-### Some Things I've Built
-
-- Automation tooling at ZeemFC that cut accounting time from 10 hours to 2
-- Managed a 500+ node blockchain cluster and pushed uptime from 70% to 98%
-- A job pipeline that scores 1,500+ listings in 20 min using local LLMs
-- CNN image classifier API with TensorFlow, PyTorch, and ONNX. 95% accuracy, 12 concurrent threads
 
 ### Links
 
